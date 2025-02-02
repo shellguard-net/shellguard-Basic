@@ -9,8 +9,11 @@ The Anti-CryptoJacking software is an innovative solution designed to detect and
 ✅ Real-time detection of suspicious processes and unusual resource consumption
 
 ✅ Automatic blocking of mining scripts and hidden threats
+
 ✅ Advanced monitoring of CPU and GPU activity
+
 ✅ Protection against browser-based attacks and malicious script injections
+
 ✅ User-friendly interface with detailed logs on detected threats
 
 📌 Note:
