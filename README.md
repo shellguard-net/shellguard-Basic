@@ -5,6 +5,7 @@ The Anti-CryptoJacking software is an innovative solution designed to detect and
 ⚠️ Beta Release – This software is currently in the testing phase, and we welcome feedback from users to help improve its efficiency and detection capabilities.
 
 ✨ Key Features:
+
 ✅ Real-time detection of suspicious processes and unusual resource consumption
 ✅ Automatic blocking of mining scripts and hidden threats
 ✅ Advanced monitoring of CPU and GPU activity
