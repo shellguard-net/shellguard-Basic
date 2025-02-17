@@ -9,7 +9,7 @@ This is a beta version, and some features may change. Please report any issues o
 
 📥 Download now and help us build a stronger defense against cryptojacking!
 
-Usage: ./a [OPTION]...
+Usage: ./sg [OPTION]...
 
 With no OPTION, script will not START.
 
@@ -18,6 +18,6 @@ With no OPTION, script will not START.
   ignore=<list>  Comma-separated list of process names to ignore (e.g., ignore=rcu-sched,syst3md,nanominer)
 
 Examples:
-  ./a basic
-  ./a basic auto
-  ./a basic auto ignore=system,myprocess,yourprocess
+  ./sg basic
+  ./sg basic auto
+  ./sg basic auto ignore=system,myprocess,yourprocess
