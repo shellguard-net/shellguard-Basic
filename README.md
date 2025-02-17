@@ -8,3 +8,16 @@ The Anti-CryptoJacking software is an innovative solution designed to detect and
 This is a beta version, and some features may change. Please report any issues or suggestions in the issues section.
 
 📥 Download now and help us build a stronger defense against cryptojacking!
+
+Usage: ./a [OPTION]...
+
+With no OPTION, script will not START.
+
+  -basic         Runs normal, usual check
+  -auto          Enables automatic mode (kills malicious processes automatically)
+  ignore=<list>  Comma-separated list of process names to ignore (e.g., ignore=rcu-sched,syst3md,nanominer)
+
+Examples:
+  ./a basic
+  ./a basic auto
+  ./a basic auto ignore=system,myprocess,yourprocess
